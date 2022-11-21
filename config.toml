@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Turist'
+
+[params]
+  homeText = "Reseanteckningar från det permanenta äventyret."
+
+[permalinks]
+  post = "/:filename/"
