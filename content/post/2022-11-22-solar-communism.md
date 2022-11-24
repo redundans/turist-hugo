@@ -1,5 +1,5 @@
 ---
-date: 2022-02-17
+date: 2022-11-22
 title:  "Solar Communism av David Schwartzman"
 ---
 David Schwartzman's artikel börjar med att beskriva hur Marxism-Leninismen under nästan hela sin historia vägrat förstå konsekvenserna av temodynamikens andra lag. Det främsta exemplet på dett har varit hur kända marxistiska tänkare avfärdat teorin om "heat death".
