@@ -9,7 +9,7 @@ I min läsning av **Nick Dyer-Witheford's** text [*Biocommie: Power and Catastro
 
 Jag utgår vagt ifrån de sex delar som Nick själv beskriver som det biokommunistiska projektet: Vital systems, De-bordering, Expropriation, Ration, Essential Workers och Planned economy. Men översatt till svensk kontext som: Välfärd, Öppna gränser, Förstatligande, Ransonering & omfördelning, Nödvändigt arbete och planerad ekonomi.
 
-Kraven är inte binära och en ekonomi kan givetvis vara mer eller mindre planerade. Och om kravet på planerad ekonomi förekommer i listan så är det att läsa som ett krav på en utökning av det planerbara. Jag är inte helle intresserad av att recensera dessa krav utan bara försöka bena ut hur de olika grupperna förhåller sig till dem.
+Kraven är inte binära och en ekonomi kan givetvis vara mer eller mindre planerade. Och om kravet på planerad ekonomi förekommer i listan så är det att läsa som ett krav på en utökning av det planerbara. Jag är inte heller intresserad av att recensera dessa krav utan bara försöka bena ut hur de olika grupperna förhåller sig till dem.
 
 ## Green New Deal / klimatkeynesianism
 Jag utgår ifrån **Rikard Warlenius** bok *Klimatet, tillväxten och kapitalismen* eftersom den utgår ifrån en Europeisk kontext samt att den skrivits i polemik mot nerväxt-förespråkarna.
