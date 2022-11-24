@@ -12,7 +12,7 @@ Jag utgår vagt ifrån de sex delar som Nick själv beskriver som det biokommuni
 Kraven är inte binära och en ekonomi kan givetvis vara mer eller mindre planerade. Och om kravet på planerad ekonomi förekommer i listan så är det att läsa som ett krav på en utökning av det planerbara. Jag är inte helle intresserad av att recensera dessa krav utan bara försöka bena ut hur de olika grupperna förhåller sig till dem.
 
 ## Green New Deal / klimatkeynesianism
-Jag utgår ifrån **Rikard Warlenius** bok *Klimatet, tillväxten och kapitalismen* eftersom den sker i en mer Europeisk kontext samt att den skrivs i polemik mot nerväxt-förespråkare.
+Jag utgår ifrån **Rikard Warlenius** bok *Klimatet, tillväxten och kapitalismen* eftersom den utgår ifrån en Europeisk kontext samt att den skrivits i polemik mot nerväxt-förespråkarna.
 
 * Offentlig satsning på förnybar energi (grön tillväx)
 * Aktiv omfördelning
@@ -21,7 +21,7 @@ Jag utgår ifrån **Rikard Warlenius** bok *Klimatet, tillväxten och kapitalism
 * Ökad offentlig välfärd (Vital Systems)
 
 ## DeGrowth
-Detta är en så himla rörig tendens. Men jag har försökt att hålla mig till sammanställningen som görs i *The Future Is Degrowth* av **Matthias Schmelzer, Andrea Vetter & Aaron Vansintjan**. De följer inte en egen dogmatisk linje utan läser på ett snällt ut sätt tendensens politiska krav.
+Detta är en så himla rörig gruppering. Men jag har försökt att hålla mig till sammanställningen som görs i *The Future Is Degrowth* av **Matthias Schmelzer, Andrea Vetter & Aaron Vansintjan**. De följer inte någon egen dogmatisk linje utan läser på ett **snällt** sätt ut denna brokiga rörelses politiska krav. Observera att det finns delar inom denna rörelse som antagligen inte skulle hålla med om samtliga krav nedan, men de finns att finna någonstans inom rörelsen.
 
 * Offentlig satsning på förnybar energi (till och med temporärt grön tillväx)
 * Rationalisering av resurser och energi
@@ -30,14 +30,17 @@ Detta är en så himla rörig tendens. Men jag har försökt att hålla mig till
 * Ökad offentlig välfärd (Vital Systems)
 
 ## Krigskommunism
-Eftersom Nick hänvisar till **Andreas Malm's** *How to Blow Up a Pipeline* & *Corona, Climate, Chronic Emergency* så är det också dessa böcker jag läst och utgått ifrån.
+Eftersom Nick hänvisar till **Andreas Malm's** *How to Blow Up a Pipeline* & *Corona, Climate, Chronic Emergency* så är det också dessa böcker jag läst och utgått ifrån när det kommer till Krigskommunism
 
 * Planerad ekonomi
 * Öppna gränser
 * Ökad offentlig välfärd (Vital Systems)
 
+## Katastrofkommunims
+Håller på att läsa *Hope Against Hope* av **Out of the Woods Collectives** som Nick nämner i texten.
+
 ## Half-Earth Socialism
-**Drew Pendergrass** & **Troy Vettese** får väl med sin bok *Half-Earth Socialism* sägas utgöra en egen linje här. Men de nämns ändå i Nick's text som något som ligger närmre biokommunismen än **Aaron Bastani's** *Fully Automated Luxury Communism*.
+**Drew Pendergrass** & **Troy Vettese** får väl med sin bok *Half-Earth Socialism* sägas utgöra en helt egen linje. Men de nämns ändå i Nick's text som något som ligger "närmre" biokommunismen än **Aaron Bastani's** *Fully Automated Luxury Communism*.
 
 * Expropriering (mark för re-wilding)
 * Ransonering (animalier)
@@ -46,15 +49,15 @@ Eftersom Nick hänvisar till **Andreas Malm's** *How to Blow Up a Pipeline* & *C
 * Ökad välfärd (Vital Systems)
 
 ## Fridays For Future
-FFF enligt dem själva "positivt inställda till förslag på hur vi skall nå 1.5 gradersmålet" men har också uttryckligen ställt krav som t.ex:
+FFF är enligt dem själva "positivt inställda till förslag på hur vi skall nå 1.5 gradersmålet" men har samtidigt uttryckligen ställt krav som t.ex:
 
 * Slopa subventionering
 
 ## Extinction Rebellion
-XR har på pappret tre krav: tala sanning, agera och öka demokratin. Men deras aktioner har flera gånger rört sig kring mycket mer tydliga krav:
+XR har på pappret tre krav: tala sanning, agera och öka demokratin. Men deras aktioner har flera gånger rört sig kring mycket tydligare politiska krav:
 
 * Stopp för fossila subventioner
-* Ökade offentliga satsningar (på t.ex. återställ våtmarker)
+* Ökade offentliga satsningar (återställ våtmarker)
 * Ransonering (stopp av "privat" flygtrafik)
 
 ## Kommunister
