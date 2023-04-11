@@ -10,7 +10,7 @@ Mot förespråkarna av nedväxt ställer Innset ekomodernisterna – eller som h
 
 Personligen har jag stor förståelse för oron inför åtstramningar i både löner och det allmänna. Men jag förstår inte varför oron skulle följa kritiken mot tillväxt, utifrån vad Innset själv påpekat ovan.
 
-För om nu ekonomi inte finns i verkligheten och en förändring av dess relativa storlek inte säger någonting om våra materiella förhållanden. Är det inte då möjligt att åtstramningar inom både den privata och det allmänna välfärden är möjliga oavsett om tillväxten ökar eller sjunker? Eller tvärt för den delen.
+För om nu ekonomi inte finns i verkligheten och en förändring av dess relativa storlek inte säger någonting om våra materiella förhållanden. Är det inte då möjligt att åtstramningar inom både den privata och den allmänna välfärden är möjliga oavsett om tillväxten ökar eller sjunker? Eller tvärt för den delen.
 
 Innset verkar utan att besväras nämnvärt sätta krokben för sig själv i sin iver att påpeka nedväxt-anhängarnas teoretiska tillkortakommanden.
 
