@@ -18,4 +18,4 @@ Ekonomins storlek tycks säga ingenting och allting på en och samma gång. Inge
 
 På samma sätt avslutar också Innset sin artikel med att varna för marxismens utvecklingsdeterminism samtidigt som han konstaterar att en förändring av samhällets organisering som skulle bromsa ekonomins relativa ökning automatiskt är att betrakta som "stillestånd och tillbakagång".
 
-Sällan har sett hur någon så väl exemplifiera sina idéer på ett så stilfullt och ofrivilligt sätt.
+Sällan har varit med om hur någon så väl exemplifiera sina idéer på ett både stilfullt och ofrivilligt sätt.
