@@ -2,12 +2,14 @@
 
 <div>
   <h1>{{ .Site.Title }}</h1>
-  <p>{{ .Site.Params.homeText | markdownify }}</p>
+  <p>
+    {{ .Site.Params.homeText | markdownify }}
+  </p>
   
-  <ul>
+  <ul class="list">
   {{ range .Site.RegularPages.ByDate.Reverse }}
     <li>
-      <a href="{{ .RelPermalink }}">{{ .Title }} ({{ .Date.Format "2 Jan, 2006" }})</a>
+      <a href="{{ .RelPermalink }}"> {{ .Title }}</a>
     </li>
   {{ end }}
   </ul>
@@ -15,7 +17,7 @@
 
 
 <footer>
-  <a rel="me" href="https://indieweb.social/@httpster">indieweb.social/@httpster</a>
+  mastodon: <a rel="me" href="https://indieweb.social/@httpster">indieweb.social/@httpster</a>
 </footer>
 
 {{ end }}

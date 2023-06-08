@@ -1,6 +1,13 @@
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
+languageCode = 'se-sv'
 title = 'Turist'
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      footnote = true
+
 
 [params]
   homeText = "Reseanteckningar från det permanenta äventyret."
