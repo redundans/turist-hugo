@@ -9,7 +9,7 @@ Jag minns första gången jag introducerades för paketförmedlande nätverk i a
 Givetvis en romantiserad bild. Men som på sätt och vis lever kvar i mångas föreställningsvärld än idag.
 
 ## Ökad centralisering
-Internets utveckling har alltid varit en kamp mellan centraliserande och decentraliserande krafter. Det fanns aldrig något "äkta Internet" som senare kom att korrumperats. Men vi kan idag ändå konstatera att trots att Internet växt har några få noder fått en allt mer central roll [^1].
+Internets utveckling har alltid varit en kamp mellan centraliserande och decentraliserande krafter. Det fanns aldrig något "äkta Internet" som senare kom att korrumperats. Men vi kan idag ändå konstatera att trots att Internet växt har några ett fåtal noder fått en allt mer central roll [^1].
 
 Som exempel kan vi ta Amazons **AWS (Amazon Web Services)**. Denna tjänst står nästan för ~4% av all trafik på Internet, eller ~47% av all trafik inom det som i vardagsspråk kallas för *molnet* [^2]. Det kan låta lite eller mycket, men det handlar bland annat om specialiserade funktioner som ingår i många andra tjänster även utanför molnet. Främst maskininlärning, dataanalys, lagring och strömning.
 
