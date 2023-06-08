@@ -61,7 +61,7 @@ Den ökade centraliseringen, den uppblåsta uppmärksamhetsekonomin och Internet
 
 För det är just vad det är, en storm, en oreda, en osäkerhet, av skit. Och precis som **Jared Diamond** lärde oss om hur samhällen kollapsar [^13] kommer inte heller Internet plötsligt sluta upphöra eller tvärt ändra form. Skitstormen kommer bara att tillta.
 
-Men mitt i denna storm formas sig en brokig motrörelse. Permacomputing [^14], Project Gemini [^15], IndieWeb [^16], the small internet, salvage computing [^17], fediverse [^18], ökat intresse för RSS [^19] och mail.
+Men mitt i denna storm formar sig en brokig motrörelse. Permacomputing [^14], Project Gemini [^15], IndieWeb [^16], the small internet, salvage computing [^17], fediverse [^18], ökat intresse för RSS [^19] och mail.
 
 De är företeelser i periferin. De berör oftast personer i Internets utkanter. De är på samma gång gravallvarliga och lekfullt löjliga. Men de är för mig en förnimmelse.
 
