@@ -6,7 +6,7 @@ Filen splittras upp i miljontals små paket som alla söker sin egen väg över 
 
 Jag minns första gången jag introducerades för paketförmedlande nätverk i allmänhet och TCP/IP i synnerhet. Internet var för mig då endast en förnimmelse. Men en som vittnade om något nytt och revolutionerande. Ett decentraliserat nätverk där styrkan fanns i helheten men utan svagheten hos den enskilda länken.
 
-Givetvis en romantiserad bild. Men som på sätt och vis lever kvar i mångas föreställningsvärld än idag.
+Givetvis en romantiserad bild. Men också en som på sätt och vis lever kvar i mångas föreställningsvärld än idag.
 
 ## Ökad centralisering
 Internets utveckling har alltid varit en kamp mellan centraliserande och decentraliserande krafter. Det fanns aldrig något "äkta Internet" som senare kom att korrumperats. Men vi kan idag ändå konstatera att trots att Internet växt har några ett fåtal noder fått en allt mer central roll [^1].
