@@ -42,7 +42,7 @@ Detta är bara en del av den uppblåsta uppmärksamhetsekonomi som **Tim Hwang**
 ## När Jevons paradox vinner över Moores lag
 Information och kommunikationsteknologin (ICT) står idag för ~2% av våra samlade koldioxidutsläpp. Vilket motsvarar flygindustrins utsläpp från bränslen. Vissa forskningsmodeller varnar för att siffran kommer överstiga 20% när vi närmar oss år 2030 [^11]. Hyperscale Data Centers förväntas då stå för en betydande del av den ökningen.
 
-Detta trots att datacentralerna först tycktes sänka energibehovet genom effektivisering och samordning av infrastruktur. Senare också genom att flytta datacentralerna till kallare miljön och därigenom slippa energitörstande kylanordningar.
+Detta trots att datacentralerna först tycktes sänka energibehovet genom effektivisering och samordning av infrastruktur. Senare också genom att flytta datacentralerna till kallare miljöer och därigenom slippa energitörstande kylanordningar.
 
 Men ju längre effektiviseringsarbetet kommit ju svårare blir det att hitta nya sätt att sänka energikonsumtionen. Allt medan efterfrågan på beräkningskraft, lagring och överföringshastigheter fortsätter att öka.
 
