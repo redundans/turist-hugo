@@ -63,7 +63,7 @@ För det är just vad det är, en storm, en oreda, en osäkerhet, av skit. Och p
 
 Men mitt i denna storm formas sig en brokig motrörelse. Permacomputing [^14], Project Gemini [^15], IndieWeb [^16], the small internet, salvage computing [^17], fediverse [^18], ökat intresse för RSS [^19] och mail.
 
-De är företeelser i periferin. De berör oftast personer i Internets utkanter. De är på samma gång gravallvarliga och lekfullt löjliga. Men är för mig en förnimmelse.
+De är företeelser i periferin. De berör oftast personer i Internets utkanter. De är på samma gång gravallvarliga och lekfullt löjliga. Men de är för mig en förnimmelse.
 
 **Det råder stor oreda i skitstormen – läget är utmärkt!**
 
