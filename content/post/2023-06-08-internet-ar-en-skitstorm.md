@@ -28,7 +28,7 @@ Men för resten av Internet ser det annorlunda ut. **Google** får 79% (2022) av
 
 Med en storlek på över 500 miljarder dollar så är marknadsföring en absolut förutsättning för Internets infrastruktur. Mycket av det som namnkunniga samhällsdebattörer kritiserat de senaste åren – övervakningskapitalism (Shoshana Zuboff) [^4], uppmärksamhetsekonomin (Yves Citton) [^5], skitifieringen (Cory Doctorow) [^6] – är alltså högst vitala funktioner för att Internet alls skall fortsätta att fungera.
 
-## Den uppblåsta uppmärksamhetsekonomin
+## Den uppblåsta uppmärksamhets&shy;ekonomin
 Men precis som politikern och predikanten **John Wanamaker** konstaterade på sent 1800-tal så är *"hälften av alla pengar man spenderar på reklam rent svinn; problemet är att man inte vet vilken halva"*.
 
 Förra året uppmättes att nästan hälften (~47%) av all trafik på Internet bestod av *bottar* [^7]. Precis som med reklam är svårigheten att det inte går att veta exakt vilken hälft. Men mätningar visar på att över 35% av all reklam på Internet påverkas direkt av denna trafik [^8]. Vilket skulle betyda att det varje år spenderas över 150 miljarder dollar på reklam riktad till just bottar.
