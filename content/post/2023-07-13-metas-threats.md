@@ -58,7 +58,7 @@ För att fördumma debatten en aning och samtidigt hjälpa mig att förstå de o
 
 **1A** argumenterar för att Metas intåg i fediversum riskerar att döda öppna designsystem genom att använda dem för massövervakning och spammande av reklam. ActivityPub har idag inget närmare stöd för privat integritet, ”networks of consent” osv. Om detta missbrukas av Meta riskerar de som bryr sig om dessa frågor att vända sig till proprietär mjukvara.
 
-**2A** tycks istället, likt vantablack argumenterar, vilja skydda sina medmänniskor och gemenskaper. På flera instanser av Mastodon har det under flera års tid växt fram en motkultur mot den racism, antisemitism, misogyni samt trans- och homofobi som florerar på just de tjänster som ägs av Meta. Att preventivt blocka Meta är en strategi för att bevara denna motkultur.
+**2A** tycks istället, likt vantablack argumenterar, vilja skydda sina medmänniskor och gemenskaper. På flera instanser av Mastodon har det under flera års tid växt fram en motkultur mot den rasism, antisemitism, misogyni samt trans- och homofobi som florerar på just de tjänster som ägs av Meta. Att preventivt blocka Meta är en strategi för att bevara denna motkultur.
 
 **1B** tycker att massblockning av det här slaget går emot själva idéen med ett öppet internet. Alla skall (i stort sätt) kunna kommunicera med alla. Och med denna preventiva blockning hålls miljoner av människor isär från varandra.
 
