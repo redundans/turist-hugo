@@ -58,26 +58,26 @@ För att fördumma debatten en aning och samtidigt hjälpa mig att förstå de o
 
 **1A** argumenterar för att Metas intåg i fediversum riskerar att döda öppna designsystem genom att använda dem för massövervakning och spammande av reklam. ActivityPub har idag inget närmare stöd för privat integritet, ”networks of consent” osv. Om detta missbrukas av Meta riskerar de som bryr sig om dessa frågor att vända sig till proprietär mjukvara.
 
-**2A** tycks istället, likt vantablack argumenterar, vilja skydda sina medmänniskor och gemenskaper. På flera instanser av Mastodon har det under flera års tid växt fram en motkultur mot den rasism, antisemitism, misogyni samt trans- och homofobi som florerar på just de tjänster som ägs av Meta. Att preventivt blocka Meta är en strategi för att bevara denna motkultur.
+**2A** tycks istället, likt vantablack argumenterar, vilja skydda sina medmänniskor och gemenskaper. På flera instanser av Mastodon har det under flera års tid växt fram en motkultur mot den rasism, antisemitism, misogyni samt trans- och homofobi som florerar på just de tjänster som ägs av Meta. Att preventivt blocka Meta är en strategi för att bevara denna motkultur och ta hand om gemenskapernas medlemmar.
 
-**1B** tycker att massblockning av det här slaget går emot själva idéen med ett öppet internet. Alla skall (i stort sätt) kunna kommunicera med alla. Och med denna preventiva blockning hålls miljoner av människor isär från varandra.
+**1B** tycker att massblockning av det här slaget går emot själva principerna med ett öppet internet. Alla skall (i stort sätt) kunna kommunicera med alla. Och med denna preventiva blockning hålls miljoner av människor isär från varandra.
 
-**2B** drivs i mångt och mycket av samma grundargument som 2A men menar att det är Meta som har mest att riskera genom att öppna dörren gemenskaper som har mycket mer att erbjuda sina deltagare än vad Meta har. Tack vare att konton lätt (nåja) kan flyttas mellan instanser hoppas man att Metas användare skall förflytta sig till instanser på Mastodon som drivs av sundare värderingar.
+**2B** drivs i mångt och mycket av samma vilja som **2A** men menar att det är Meta som har mest att riskera genom att öppna dörren mot gemenskaper som har mer att erbjuda sina deltagare än vad Meta har. Tack vare att konton lätt (nåja) kan flyttas mellan instanser hoppas man att Metas användare skall förflytta sig till instanser på Mastodon som inhyser en bättre kultur.
 
 ## Mina personliga åsikter
 
-Threads är nu släppt och jag har inte ens varit i närheten av den. Andra har dock sammanfattat sina erfarenheter:
+Threads är nu släppt och jag har inte ens varit i närheten av att använda den. Andra har dock sammanfattat sina erfarenheter:
 - https://www.admdnewsletter.com/p/threads-mastodon-and-the-loneliness
 - https://www.zdnet.com/article/ive-used-social-networks-since-the-80s-threads-is-the-most-annoying-one-ive-tried/
 - https://www.vice.com/en/article/epvp8j/threads-is-all-the-worst-parts-of-twitter-and-instagram-in-one-very-bad-app
 
-Jag inte heller ngon klar åsikt om vilken strategi fediversum skall anamma. [Kamratadatföreningen Konstellationen](https://konstellationen.org/) som jag också är medlem i har just nu en omröstning bland sina medlemmar om hur [social.Spejset](https://social.spejset.org/) (Mastodon-instansen vi förvaltar) skall förhålla sig i frågan. Men eftersom jag personligen bor på en annan instans kommer jag nog lägga ned min röst i frågan.
+Jag har inte heller någon klar åsikt om vilken strategi fediversum bör anamma. [Kamratadatföreningen Konstellationen](https://konstellationen.org/) som jag också är medlem i har just nu en omröstning bland sina medlemmar om hur [social.Spejset](https://social.spejset.org/) (Mastodon-instansen vi förvaltar) skall förhålla sig i frågan. Men eftersom jag personligen bor på en annan instans kommer jag nog lägga ned min röst i frågan.
 
-Många konstaterar också att en block av Metas instanser inte är något skydd mot deras övervakning. ActivityPub erbjuder inget sådant skydd och Meta har varit notoriskt duktiga på att övervaka sådant som sker på det öppna internet.
+Många konstaterar också mycket riktigt att en block av Metas instanser inte är något skydd mot deras övervakning. ActivityPub erbjuder inget sådant skydd och Meta har varit notoriskt duktiga på att övervaka sådant som sker på det öppna internet.
 
-Samtidigt tycker jag att debatten om Metas intåg i fediversum lärt mig väldigt mycket om fediversums typografi, teknologi och de olika motkulturer som bor där. Och jag tror inte att jag är ensam om denna upplevelse.
+Samtidigt har debatten om Metas intåg i fediversum lärt mig väldigt mycket om fediversums typografi, teknologi och de olika motkulturer som bor där. Och jag tror inte att jag är ensam om denna erfarenhet. Och oavsett vilken väg som blir ledande för fediversum tror jag att denna debatt, i backspegeln kommer ses som viktig.
 
-## Merläsning
+## Rekommenderad läsning
 
 - https://www.cacherules.com/blog/2023/6/resistance-is-futile-you-will-be-assimilated-by-meta
 - https://about.scicomm.xyz/doku.php?id=blog:2023:0625_meta_on_the_fediverse_to_block_or_not_to_block
