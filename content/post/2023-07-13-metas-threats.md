@@ -89,4 +89,6 @@ Samtidigt har debatten om Metas intåg i fediversum lärt mig väldigt mycket om
 - https://heat-shield.space/mastodon_two_camps.html
 - http://wok.oblomov.eu/tecnologia/credible-threat-1/
 - https://heat-shield.space/mastodon_two_camps.html
-- 
+- https://seirdy.one/posts/2023/06/20/defederating-p92/
+- https://www.timothychambers.net/2023/06/23/project-and-the.html
+- https://hub.fosstodon.org/facebook-fosstodon-fedi
