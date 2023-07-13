@@ -1,0 +1,22 @@
+<svg width="1200" height="720" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <line fill="none" stroke="#000" x1="576.33333" y1="121.66665" x2="576.33333" y2="604.75049" id="svg_1" stroke-linejoin="undefined" stroke-linecap="undefined" stroke-width="5"/>
+  <line fill="none" stroke="#000" x1="576.33333" y1="121.66665" x2="576.33333" y2="604.75049" id="svg_2" stroke-linejoin="undefined" stroke-linecap="undefined" stroke-width="5" transform="rotate(90, 576.333, 363.209)"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" x="464.49291" y="104.66665" id="svg_5" font-size="32" font-family="'Public Sans'" text-anchor="start" xml:space="preserve" font-weight="bold">Öppet internet</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" x="839.49291" y="373.66665" id="svg_6" font-size="32" font-family="'Public Sans'" text-anchor="start" xml:space="preserve" font-weight="bold">Preemptively block</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" x="67.08895" y="373.66665" id="svg_4" font-size="32" font-family="'Public Sans'" text-anchor="start" xml:space="preserve" font-weight="bold">Trust but Verify</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" x="500.15" y="648.24185" id="svg_3" font-size="32" font-family="'Public Sans'" text-anchor="start" xml:space="preserve" font-weight="bold">Motkultur</text>
+  <g id="svg_12">
+   <ellipse fill="#000000" stroke="#000" stroke-width="0" cx="743.33333" cy="179.66665" id="svg_10" rx="12" ry="12"/>
+   <text fill="#000000" stroke="#000" stroke-width="0" x="764.33333" y="188.66665" id="svg_11" font-size="24" font-family="'Public Sans'" text-anchor="start" xml:space="preserve">1A</text>
+  </g>
+  <ellipse fill="#000000" stroke="#000" stroke-width="0" cx="743.33333" cy="553.05386" id="svg_9" rx="12" ry="12"/>
+  <ellipse fill="#000000" stroke="#000" stroke-width="0" cx="375.26677" cy="553.05386" id="svg_14" rx="12" ry="12"/>
+  <ellipse fill="#000000" stroke="#000" stroke-width="0" cx="375.26677" cy="183.78838" id="svg_7" rx="12" ry="12"/>
+  <text fill="#000000" stroke="#000" stroke-width="0" x="764.33333" y="562.05386" id="svg_13" font-size="24" font-family="'Public Sans'" text-anchor="start" xml:space="preserve">2A</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" x="396.26677" y="562.05386" id="svg_15" font-size="24" font-family="'Public Sans'" text-anchor="start" xml:space="preserve">2B</text>
+  <text fill="#000000" stroke="#000" stroke-width="0" x="396.26677" y="192.78838" id="svg_8" font-size="24" font-family="'Public Sans'" text-anchor="start" xml:space="preserve">1B</text>
+ </g>
+
+</svg>
