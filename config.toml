@@ -1,5 +1,5 @@
 baseURL = 'https://www.turist.blog'
-languageCode = 'se-sv'
+languageCode = 'sv-SE'
 title = 'Turist'
 copyright = "2022 No rights reserved"
 
