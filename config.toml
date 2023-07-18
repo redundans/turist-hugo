@@ -1,13 +1,17 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://www.turist.blog'
 languageCode = 'se-sv'
 title = 'Turist'
+copyright = "2022 No rights reserved"
+
+[Author]
+    name = "Httpstr"
+    email = "do@notemail.me"
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
   [markup.goldmark]
     [markup.goldmark.extensions]
       footnote = true
-
 
 [params]
   homeText = "Reseanteckningar från det permanenta äventyret."
