@@ -14,7 +14,7 @@ I senaste avsnittet av podden [Techmeme Ride Home](https://www.ridehome.info/sho
 
 Många cykelägare befarar nu att deras dyrköpta fordon snart kommer förvandlas till oanvändbart skrot.
 
-Den fantastiska tidskriften [Low-tech Magazine](https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again/) har **Kris De Decker** tidigare i år skrivit en lång artikel om hur vi är påväg att göra cykeln till ett allt mindre hållbart transportsätt.
+I den fantastiska tidskriften [Low-tech Magazine](https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again/) har **Kris De Decker** tidigare i år skrivit en lång artikel om hur vi är påväg att göra cykeln till ett allt mindre hållbart transportsätt.
 
 > "Manufacturers have introduced an increasing number of proprietary parts and keep changing standards, resulting in compatibility issues even for older bicycles of the same brand."
 
