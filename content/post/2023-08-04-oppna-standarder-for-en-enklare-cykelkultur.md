@@ -34,5 +34,5 @@ En liknande motkultur kanske tydligare skulle kunna artikuleras bland oss cyklis
 
 Exempel som cykelköken finns redan i [Bagarmossen](https://bagarmossenscykelkok.se/), Solna, Umeå, Göteborg, Malmö och Jönköping och är fantastiska exempel. Att kunna laga och ta hand om sin egen cykel är inte bara roligt. Det är en motmakt och en förutsättning för att fortsatt kunna hävda att cykeln är ett hållbart transportmedel.
 
-Läs mer:
+### Läs mer:
 https://www.nytimes.com/2023/08/03/business/vanmoof-bankruptcy-ebikes.html
