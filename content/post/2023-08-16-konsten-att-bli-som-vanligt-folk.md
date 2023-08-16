@@ -18,7 +18,7 @@ För att illustrera denna polaritet kan vi ställa två dåtida tidskrifter mot 
 
 Med böcker som *Days of War, Nights of Love* och *Expect Resistance* lyfte kollektivet bakom CrimethInc fram en kontrakultur där vi skulle lockas till att söka det revolutionära äventyret genom att gå i exil, lämna den kapitalistiska kulturen. Vi skulle sno, ockupera, förstöra och bilda rövarband med våra vänner och älskare.
 
-I magasinet Kolla! Lyftes tvärt om viljan att anamma moderna majoritetskulturer. Reportage om graffiti, hyllningar av porr och artiklar om att älska "amerikansk kultur" varvades med artiklar om husockupationer, fildelning och arbetsplatskamp.
+I magasinet Kolla! Lyftes tvärt om viljan att anamma moderna majoritetskulturer. Reportage om graffiti, hyllningar av porr och artiklar om att älska "amerikansk kultur" varvades med artiklar om husockupationer, fildelning och arbetsplatskamp. Vi skulle leva det permanenta äventyret här och nu.
 
 Det är svårt att helt skilja denna kritik mot kontrakultur från den kritik som samtidigt pågick inom samma kretsar. Vilken istället riktade in sig på det man kallade för *aktivism*. I texter som *Vi är inga kampanjnissar* och *Ge upp aktivismen*
 (båda översatta av **Stockholms Autonoma Marxister**) lyftes en liknande kritik mot ett självpåtaget utanförskap fram.
