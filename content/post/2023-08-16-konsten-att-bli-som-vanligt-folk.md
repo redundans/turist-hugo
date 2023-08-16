@@ -4,7 +4,7 @@ title:  "Konsten att bli som vanligt folk!"
 ---
 Vi hade egna mail-listor och forum med levande politiska diskussioner. Vi hade fungerande SMS-listor för mobilisering. Vi hade chat-kanaler där vi förströdde oss. Och vi hade egna tidningar och webbportaler där vi kommunicerade oss emellan. Det enda vi inte hade var reklam och högertroll.
 
-Så varför gav den autonoma vänstern upp allt detta för att idag knapp lyckas nå ut till våra egna sympatisörer och samtidigt ägna all vår tid och energi för att bemöta fiendens hegemoni?
+Så varför gav den autonoma vänstern upp allt detta för att idag knappt lyckas nå ut till våra egna sympatisörer och samtidigt ägna all vår tid och energi för att bemöta fiendens hegemoni?
 
 Idag skall jag gräva ned mig lite i en av alla pusselbitar till svaret på den frågan. Viljan att bli som *"vanligt folk"*!
 
