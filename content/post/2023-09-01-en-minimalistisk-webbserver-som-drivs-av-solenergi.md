@@ -4,9 +4,9 @@ title:  "En minimalistisk webbserver som drivs av solenergi"
 ---
 Allt sedan jag läste **Kris De Deckers** ursprungliga bloggpost på [Low-tech magazine](https://solar.lowtechmagazine.com/) om deras soldrivna webbserver har jag haft en idé om att bygga en själv.
 
-Idag drivs den välbesökta bloggen helt på solenenergi och ett helt gäng av kunniga personer har varit inolverade i att få det att fungera så bra som möjligt. Den gamla bloggen har de slutat att uppdatera.
+Idag drivs den välbesökta bloggen helt på solenenergi och ett helt gäng av kunniga personer har varit inolverade i att få det att fungera så bra som möjligt. Och den [gamla bloggen](https://www.lowtechmagazine.com/) har de helt slutat att uppdatera.
 
-Mitt projekt skiljer sig något från gängets på Low-tech magazine då det är mycket mindre ambitiöst. Jag har försökt att bygga allt med saker som jag redan hade tillgång till eller genom billigaste möjliga inköp.
+Mitt projekt skiljer sig något från gängets på Low-tech magazine då det är mycket mindre ambitiöst. Jag har försökt att bygga allt med saker som jag redan har eller genom billigast möjliga inköp.
 
 **Min webbserver består av följande:**
 
@@ -16,19 +16,25 @@ Mitt projekt skiljer sig något från gängets på Low-tech magazine då det är
 * Kablar
 * Raspberry Pi Zero W
 
-Raspberry:n hade jag sedan tidigare, liksom solpanelen. Alla kablar har jag hämtat från grovsoporna, tvättat och strippat. Eftersom jag är osäker på mitt behov av batteri nöjde jag mig med ett på 7.5 Ah som var tillfälligt på rea. Regulatorn är den billigaste jag kunde hitta som erbjöd 5 watt elförsörjning via USB. Så jag kan driva Raspberry:n direkt från den och slipper skaffa någon typ av power shell för batteridrift.
+Raspberry:n hade jag sedan tidigare, liksom solpanelen. Alla kablar har jag "handlat" i husets återvinningsrum, tvättat och strippat. Eftersom jag är osäker på mitt behov av batteri nöjde jag mig med att köpa ett mindre mc-batteri på 7.5 Ah, som tillfälligt var på rea. Regulatorn är den billigaste jag kunde hitta som erbjöd 5 volt över USB. På så sätt kan jag driva Raspberry:n direkt från regulatorn och slipper skaffa någon typ av power shell för batteridrift.
 
-Mjukvarumässigt så har jag också gjort det lätt för mig. Raspberry:n kör Raspberry OS Lite, Debian 11 (bullseye). För att minska energiåtgången har jag har stängt av HDMI, Bluetooth och en USB-port. Med hänsyn till min sambo använder jag idag tyvärr WIFI för att prata med min router istället för att dra ethernetkablar över hela vår boyta.
+På mjukvarusidan så har jag också gjort det lätt för mig. Raspberry:n kör Raspberry OS Lite, Debian 11 (bullseye). För att minska energiåtgången har jag har stängt av HDMI, Bluetooth och en USB-port. Med hänsyn till min sambo använder jag idag tyvärr WIFI för att prata med routern istället för att dra ethernetkablar över hela vår bostad.
 
-Bloggen i sig består av statisk HTML utan länkade assets för att minska både mängden data och requests till servern. Jag är lite osäker på om gzip-komprimering av trafiken skulle ge några energifördelar. Då komprimeringen antagligen kräver mer prestanda än leveransen av data mot internet.
+Bloggen i sig består av statisk HTML (genererad med [HUGO](https://gohugo.io/)) utan länkade assets för att minska både mängden data och requests till servern. Jag är lite osäker på om gzip-komprimering av trafiken skulle ge några energifördelar, då komprimeringen antagligen kräver mer prestanda än leveransen av data mot internet.
 
-Eftersom serven bor hemma hos mig i stadsnätet utan fast IP så använder jag dessutom en tunnel via Cloudflare (ja, jag vet!) för att man skall kunna nå servern från Internet.
+Eftersom serven bor hemma hos mig inom stadsnätet utan fast IP så använder jag dessutom en tunnel via Cloudflare (ja, jag vet!) för att man skall kunna nå servern från Internet.
 
-## Problem
+## Nackdelar
 
-Ja, det största problemet är väl att webbservern plötsligt slocknar i brist på energi från batteriet. Men det är en anpassning jag tycker är rimligt. Om någon typ av omställning till hållbar energi skall göras kanske vi måste vänja oss vid att allt inte går att drifta hela tiden och när som helst. Detta är dessutom en blogg och inte ett journalsystem hos akutsjukvården.
+Ja, det största nackdelen är väl att webbservern när som helst kan slockna i brist på energi från batteriet. Men det är en anpassning jag tycker är rimligt. Om någon typ av omställning till (mindre) ohållbar/billig/självförsörjande energi skall göras kanske vi måste vänja oss vid att allt inte går att nå hela tiden och när som helst. Detta är dessutom en blogg och inte ett journalsystem hos akutsjukvården.
 
 Ett annat problem är givetvis kostnaden. Att få till en sån här setup kostar trots att jag snålat över tusen kronor. Tidigare låg bloggen hos GitHub Pages och det var helt "gratis" och hade en upptid på 99%.
+
+## Fördelar
+
+Det är roligt och man lär sig en hel del om hur energikrävande teknomassan som vi varje dag tar för givet är. Dessutom tvingas man energi-prioritera. För hur mycket energi, teknik och resurser är det värt för mig att ha en blogg?
+
+Men sedan är man givetvis på ett eller annat sätt lite mer självständig och fri. Förutom tunneln och domännamnet så är jag oberoende av andra företag och kostnader. Även om det skulle krävas en lite annorlunda konfiguration skulle jag kunna drifta denna lösning med vindkraft, vattenkraft och vilken gammal dator som helst jag hittar i soprummet.
 
 ## Förbättringar
 
